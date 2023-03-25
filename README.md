@@ -1,4 +1,4 @@
 # centos
 :wink:
 
-config and .yml files for cent os 7/8
+config and .yml files for centos 7/8
